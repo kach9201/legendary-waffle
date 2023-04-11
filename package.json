@@ -1,0 +1,26 @@
+{
+  "name": "legendary-waffle",
+  "version": "1.0.0",
+  "description": "User Story",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1",
+    "watch": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kach9201/legendary-waffle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kach9201/legendary-waffle/issues"
+  },
+  "homepage": "https://github.com/kach9201/legendary-waffle#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^5.2.0",
+    "mongoose": "^6.9.2",
+    "nodemon": "^2.0.22"
+  }
+}
